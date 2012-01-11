@@ -20,7 +20,7 @@
 
     <modules>
         <module>dynjs</module>
-	<module>jsr223</module>
+		<module>jsr223</module>
         <module>support</module>
     </modules>
 
